@@ -28,7 +28,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about web development, cyberse
 
 🔗 Feel free to connect with me on:
 - [GitHub](https://github.com/shayanahmedk)
-- [LinkedIn](https://www.linkedin.com/in/shayanahmedk)
+- [LinkedIn](https://www.linkedin.com/in/shayaanahmedk)
 - [Instagram](https://www.instagram.com/shayanahmedk)
 
 Let's innovate and build a secure digital future together! 💡
