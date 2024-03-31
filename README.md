@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀 I'm passionate about web development, cybersecurity, and networks. Let me introduce myself a bit:
 
-## About Me \u2139️
+## About Me ℹ️
 
 🔭 I'm a web developer with a focus on backend development, cybersecurity, and networks. I thrive on creating robust and secure web applications.
 
